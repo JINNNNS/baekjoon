@@ -27,6 +27,7 @@ int Hansoo(int n) {
 		}
 		return count;
 
+
 	}
 
 
